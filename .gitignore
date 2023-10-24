@@ -1,0 +1,11 @@
+
+*.xml
+*.jar
+*.jar
+*.gradle
+*.cmd
+DataScraper/mvnw
+DataScraper/.mvn/wrapper/maven-wrapper.properties
+DataScraper/.mvn/wrapper/maven-wrapper.jar
+DataScraper/.mvn/wrapper/maven-wrapper.jar
+*.bat
